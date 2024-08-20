@@ -1,0 +1,12 @@
+isim: ahmet
+yaş: 23
+, boy: 1.7 cm
+, kilo: 70.0vücut kitle indeksi: 24.2
+değer aralığı: normal kilolu
+kayıt tarihi: Tue Aug 20 22:37:43 2024|n
+isim: merve
+yaÅŸ: 29
+, boy: 1.55 cm
+, kilo: 60.0vÃ¼cut kitle indeksi: 25.0
+deÄŸer aralÄ±ÄŸÄ±: fazla kilolu
+kayÄ±t tarihi: Tue Aug 20 22:40:15 2024|n
